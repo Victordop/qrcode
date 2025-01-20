@@ -1,2 +1,3 @@
 # qrcode
-Exercício para treinar css e html, proposto por FrontendMentor
+Exercise to training css and html, challenge proposed by FrontendMentor.
+I practiced hmtl and css, utilizing flexbox to give responsiveness to the application. 
