@@ -40,6 +40,7 @@
   font-family: 'Outfit', serif;
   line-height: 1.5;
   margin-top: -10px;
+  max-width: 300px;
 }
 
 body {
